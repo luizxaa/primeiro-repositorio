@@ -1,3 +1,16 @@
 body {
-    background-color: gold
+    background-color: #CCCCCC;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-size: 20px;
+}
+
+p em {
+    color: red;
 }
