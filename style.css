@@ -43,6 +43,10 @@ ul {
     margin: 15%;
 }
 
+.iten {
+    font-style: italic;
+}
+
 .imagembeneficios {
     width: 50%;
 }
