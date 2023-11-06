@@ -1,5 +1,14 @@
 body {
     
+} 
+
+h1 {
+    color: #000000;
+
+}
+
+.titulo-principal {
+    padding-left: 25px;
 }
 
 img {
@@ -12,7 +21,7 @@ img {
 
 }
 
-h1 {
+h3 {
     text-align: center;
 }
 
@@ -31,7 +40,7 @@ em strong {
 
 }
 
-h2 {
+h3 {
     text-align: center;
 }
 
